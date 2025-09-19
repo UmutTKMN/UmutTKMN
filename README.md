@@ -31,8 +31,7 @@
 
 <p align="center">
   <a href="mailto:tkmnumut@gmail.com"><img src="https://img.shields.io/badge/UmutTKMN-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:support@hylaris.com"><img src="https://img.shields.io/badge/Hylaris-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:info@kahrastudi.art"><img src="https://img.shields.io/badge/Kahra%20Studio-000000.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:umut@kahrastudi.art"><img src="https://img.shields.io/badge/Kahra%20Studio-000000.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://kahrastudio.art" target="_blank"><img src="https://img.shields.io/badge/Kahra%20Studio%20Website-333333.svg?style=for-the-badge&logo=mail&logoColor=white"/></a>
   <a href="[https://x.com/umut_tkmn](https://x.com/umut_kahra)" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <span><img src="https://img.shields.io/badge/poncikpanda-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></span>
